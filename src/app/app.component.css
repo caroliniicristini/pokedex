@@ -1,0 +1,31 @@
+.fundoPoke{
+    
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+.wrapper{
+    position: absolute;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.pokeball-back{
+    z-index: 999;
+    position: absolute;
+}
+@media(max-width: 1000px){
+    .fundoPoke{
+      display: none;
+    }
+    .wrapper:after{
+        display: none;
+    }
+    .fundoPoke{
+      display: none !important;
+    }
+    .pokemon{
+        width: 300px;
+    }
+}
