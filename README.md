@@ -3,9 +3,7 @@
 ![image](https://user-images.githubusercontent.com/67964919/224395496-c7e6b466-fa69-4c7f-94f5-1f6158d8115d.png)
 
 
-
 # 📖 Sobre 
-O projeto Pokedex, faz o uso da api Pokedex
 
 
 # 🚀 Tecnologias utilizadas
